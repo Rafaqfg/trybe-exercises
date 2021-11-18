@@ -2,7 +2,7 @@
 
 # Exercise 1.
 mkdir unix_tests
-cd unix-text
+cd unix_text
 
 # exercise 2.
 touch trybe.txt

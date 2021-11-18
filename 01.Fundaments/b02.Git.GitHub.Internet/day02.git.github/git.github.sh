@@ -1,7 +1,6 @@
 #! /bin/zsh
 
-# part 1 to 4: Just install, configure, and aplly SSH at GIT/GITHUB;
-# create a repository to all exercises.
+# part 1 and 2: Just learn to use: push, clone, pull, log and others git commands.
 
 # github.com/Rafaqfg
 

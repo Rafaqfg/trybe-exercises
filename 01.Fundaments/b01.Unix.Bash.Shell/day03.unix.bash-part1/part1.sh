@@ -62,4 +62,4 @@ tail -4 skills.txt
 # exercise 16.
 rm -f *.txt
 
-# End off all part 1 exercises! :)
+# End of all part 1 exercises! :)

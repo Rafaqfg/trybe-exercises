@@ -2,7 +2,7 @@
 
 This repository includes all learning activities developed by_[Rafael Godoy](Linkedin)_ while studying at [Trybe](https://www.betrybe.com/) :rocket:
 
-_"Trybe is a school of the future for anyone who wishes for a better life and and to build a successful career in technology, where the person only pays when they get a good job."_
+_"Trybe is a school of the future for anyone who wishes for a better life and to build a successful career in technology, where the person only pays when they get a good job."_
 
 The program features more than 1,500 hours of in person and online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 

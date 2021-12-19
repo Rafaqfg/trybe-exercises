@@ -6,7 +6,7 @@ _"Trybe is a school of the future for anyone who wishes for a better life and to
 
 The program features more than 1,500 hours of in person and online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies and behavioral skills.
 
-## Fundamentals of Web development :white_check_mark:
+## Fundamentals of Web development :heavy_check_mark:
 
 ##### Section 1: Introduction - Unix & Shell
  

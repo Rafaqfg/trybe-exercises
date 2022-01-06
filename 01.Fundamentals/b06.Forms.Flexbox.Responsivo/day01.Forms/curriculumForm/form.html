@@ -10,6 +10,7 @@
 <body>
   <header>
     <h1>Cadastre seu currículo</h1>
+    <p>Adicione suas informações abaixo.</p>
   </header>
   <main>
     <form action="" method="get" >
@@ -18,49 +19,49 @@
           <legend>Dados pessoais</legend>
         <!-- Nome -->
           <div>
-            <label for="nomeuser"> Nome completo</label>
-            <input type="text" name="nome" id="nomeuser" autocomplete="off" maxlength="40" placeholder="Digite seu nome" required>
+            <label for="nomeuser"> Nome completo:</label>
+            <input type="text" name="nome" id="nomeuser" autocomplete="no" maxlength="40" placeholder="Digite seu nome" required>
           </div>
           <br> 
         <!-- E-mail  -->
           <div>
-            <label for="emailuser"> E-mail</label>
-            <input type="email" name="email" id="emailuser" autocomplete="off" maxlength="50" placeholder="Digite seu e-mail" required>
+            <label for="emailuser"> E-mail:</label>
+            <input type="email" name="email" id="emailuser" autocomplete="no" maxlength="50" placeholder="Digite seu e-mail" required>
           </div>
           <br>
         <!-- CPF -->
           <div>
-            <label for="cpfuser"> CPF</label>
+            <label for="cpfuser"> CPF:</label>
             <input type="text" name="cpf" id="cpfuser" autocomplete="off" maxlength="11" placeholder="Digite seu CPF" required>
           </div>
           <br>
         <!-- Endereço -->
           <div>
-            <label for="enderecouser"> Endereço</label>
-            <input type="text" name="endereco" id="enderecouser" autocomplete="off" maxlength="200" placeholder="Digite seu endereço" required>
+            <label for="enderecouser"> Endereço:</label>
+            <input type="text" name="endereco" id="enderecouser" autocomplete="no" maxlength="200" placeholder="Digite seu endereço" required>
           </div>
           <br>
         <!-- Cidade -->
           <div>
-            <label for="cidadeuser"> Cidade</label>
-            <input type="text" name="cidade" id="cidadeuser" autocomplete="off" maxlength="28" placeholder="Digite sua cidade" required>
+            <label for="cidadeuser"> Cidade:</label>
+            <input type="text" name="cidade" id="cidadeuser" autocomplete="no" maxlength="28" placeholder="Digite sua cidade" required>
           </div>
           <br>
         <!-- Estado -->
           <div>
-            <label for="estadouser">Estado</label>
+            <label for="estadouser">Estado:</label>
             <select name="estado" id="estadouser" required>
-              <option value=""></option>
+              <option disabled selected value=""></option>
             </select>
           </div>
           <br>
         <!-- Tipo moradia -->
           <div>
-            <P>Local de moradia</P>
-            <input type="radio" name="moradia" id="aptuser" required>
-            <label for="aptuser">Apartamento</label>
-            <input type="radio" name="moradia" id="casauser" required>
-            <label for="casauser">Casa</label>
+            <P>Local de moradia:</P>
+            <input type="radio" name="moradia" id="apto" required>
+            <label for="apto">Apartamento</label>
+            <input type="radio" name="moradia" id="casa" required>
+            <label for="casa">Casa</label>
           </div>
         </fieldset>
       </div>

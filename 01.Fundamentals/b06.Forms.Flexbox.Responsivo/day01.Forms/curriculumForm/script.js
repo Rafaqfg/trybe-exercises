@@ -9,4 +9,4 @@ function createStatesOptions() {
     stateSelector.appendChild(option);
   }
 }
-createStatesOptions()
+createStatesOptions();

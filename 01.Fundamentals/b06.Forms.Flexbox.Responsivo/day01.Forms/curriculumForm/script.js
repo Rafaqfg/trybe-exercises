@@ -9,4 +9,6 @@ function createStatesOptions() {
     stateSelector.appendChild(option);
   }
 }
-createStatesOptions();
+window.onload = function () {
+  createStatesOptions();
+}

@@ -58,10 +58,11 @@
           <br>
         <!-- Tipo moradia -->
           <div>
-            <P>Local de moradia:</P>
-            <input type="radio" name="moradia" id="apto" required>
+            <spam>Tipo de moradia:</spam>
+            <br>
+            <input type="radio" name="moradia" id="apto" value="apto" required>
             <label for="apto">Apartamento</label>
-            <input type="radio" name="moradia" id="casa" required>
+            <input type="radio" name="moradia" id="casa" value="casa" required>
             <label for="casa">Casa</label>
           </div>
         </fieldset>
@@ -78,14 +79,24 @@
         <!-- Cargo -->
           <div>
             <label for="cargouser">Cargo:</label>  
-            <input type="text" name="cargo" id="cargouser" maxlength="40" placeholder="Cargo" required>
+            <input type="text" name="cargo" id="cargouser" maxlength="40" placeholder="Cargo" autocomplete="no" required>
           </div>
         <!-- Descrição do cargo -->
           <div>
             <label for="cargoDescription">Descrição do cargo:</label>  
             <textarea name="cargoDescription" id="description" cols="100" rows="5" maxlength="500" placeholder="Descreva sua função" required></textarea>
           </div>
+        <!-- Data de início -->
+          <div>
+            <label for="dataInicio">Data de início:</label>
+            <input type="text" name="dataInicial" id="dataInicio" value="" autocomplete="no" required>
+          </div>
         </fieldset>
+      </div>
+    <!-- Botões -->
+      <div>
+        <button class="" type="submit">Enviar</button>
+        <button class="" type="button">Limpar</button>
       </div>
     </form>
 </main>

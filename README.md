@@ -49,48 +49,48 @@ The program features more than 1,500 hours of in person and online classes, cove
  
 ##### Section 6: Advanced HTML & CSS 
  
-- [ ] 6-1: _HTML & CSS - Forms_
-- [ ] 6-2: _JavaScript libraries and CSS Frameworks _
-- [ ] 6-3: _CSS Flexbox - Part 1_
-- [ ] 6-4: _CSS Flexbox - Part 2_
-- [ ] 6-5: _CSS Responsive - Mobile First_
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]()_
+- [:white_check_mark:] 6-1: _HTML & CSS - Forms_
+- [:white_check_mark:] 6-2: _JavaScript libraries and CSS Frameworks _
+- [:white_check_mark:] 6-3: _CSS Flexbox - Part 1_
+- [:white_check_mark:] 6-4: _CSS Flexbox - Part 2_
+- [:white_check_mark:] 6-5: _CSS Responsive - Mobile First_
+- [:white_check_mark:] 6-6: _[Projeto - Página inicial do Facebook]()_
  
 ##### Section 7: JavaScript ES6 & Unit testing
  
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
-- [ ] 7-2: _JavaScript ES6 - Objects_
-- [ ] 7-3: _JavaScript unit testing_
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]()_
+- [:white_check_mark:] 7-1: _JavaScript ES6 - let, const, arrow functions and template literals_
+- [:white_check_mark:] 7-2: _JavaScript ES6 - Objects_
+- [:white_check_mark:] 7-3: _JavaScript unit testing_
+- [:white_check_mark:] 7-4: _[Projeto - JavaScript Testes Unitários]()_
  
 ##### Section 8: JavaScript ES6
  
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
-- [ ] 8-5: _[Projeto - Zoo functions]()_
+- [:white_check_mark:] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort_
+- [:white_check_mark:] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter_
+- [:white_check_mark:] 8-3: _JavaScript ES6 - Higher Order Functions - reduce_
+- [:white_check_mark:] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais_
+- [:white_check_mark:] 8-5: _[Projeto - Zoo functions]()_
  
 ##### Section 9: Assincronicidade & Callbacks
  
-- [ ] 9-1: _Asynchronous JavaScript and Callbacks_
-- [ ] 9-2: _JavaScript Promises_
-- [ ] 9-3: _[Projeto - Carrinho de Compras]()_
+- [:white_check_mark:] 9-1: _Asynchronous JavaScript and Callbacks_
+- [:white_check_mark:] 9-2: _JavaScript Promises_
+- [:white_check_mark:] 9-3: _[Projeto - Carrinho de Compras]()_
  
 ##### Section 10: Jest
  
-- [ ] 10-1: _Jest first steps_
-- [ ] 10-2: _Jest – Asynchronous testing_
-- [ ] 10-3: _Jest – Simulate behavioursubject_
-- [ ] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
+- [:white_check_mark:] 10-1: _Jest first steps_
+- [:white_check_mark:] 10-2: _Jest – Asynchronous testing_
+- [:white_check_mark:] 10-3: _Jest – Simulate behavioursubject_
+- [:white_check_mark:] 10-4: _[Projeto - Jest Assíncrono e Mocking]()_
  
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
  
 ##### Section 11: Introduction - React
  
-- [ ] 11-1: _'Hello, world!' no React!_
-- [ ] 11-2: _Componentes React_
-- [ ] 11-3: _[Projeto - Movie Cards Library]()_
+- [:white_check_mark:] 11-1: _'Hello, world!' no React!_
+- [:white_check_mark:] 11-2: _Componentes React_
+- [:white_check_mark:] 11-3: _[Projeto - Movie Cards Library]()_
  
 ##### Section 12: React
  
